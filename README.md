@@ -1,2 +1,3 @@
 # clone-fintab
-Implementação do TabNews, porém com o objetivo de revisar 
+
+Implementação do TabNews, porém com o objetivo de revisar
